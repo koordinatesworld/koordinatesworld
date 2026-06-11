@@ -1,43 +1,49 @@
-<div align="center">
-k o o r d i n a t e s w o r l d
+# koordinatesworld
 
-*where roots meet coordinates*
-</div>
----
-### 🌐 [koordinates/](https://koordinatesworld.github.io/koordinates)
-> *"The seeker is not looking for something new. The seeker is looking for something true."*
-> — Osho
----
-### What this space is about
-A quiet intersection of fields that don't usually talk to each other.
-| | |
-|---|---|
-| 📜 | Vedic Philosophy |
-| 🛰️ | Geospatial Science |
-| 🧬 | Biotechnology |
-| 🌀 | Consciousness |
-Not a portfolio. Not a blog. A living notebook — written in the margins between disciplines.
----
-### 🗂 What lives here
-| | |
-|---|---|
-| 🌍 **koordinates/** | Essays, philosophy, Vedas × science |
-| 📡 **Vedas × Science** | 100 sutras — GIS + Biotech + Osho |
-| ✍️ **Writing** | Long-form. No simplification. |
-| 🎬 **Reels** | Ideas that fit in 60 seconds |
----
-### 📡 Currently exploring
-- The geometry of consciousness
-- Why satellites and Vedic rishis asked the same questions
-- What 3.8 billion years of evolution is trying to say
----
-### Stack
-Curiosity > Discipline > Tools
+> some things can't be explained. only encountered.
 
-`GIS` `Remote Sensing` `Python` `Spatial Analysis`
-`Molecular Biology` `Bioinformatics` `Philosophy`
 ---
-<div align="center">
-*Anonymous. Original. Ongoing.*
-© 2025 koordinatesworld — All Rights Reserved
-</div>
+
+independent content studio. no institution. no agenda. no face.
+
+writing at the intersection of fields that have no business being related —
+and finding out they were always the same field.
+
+---
+
+**what happens here**
+
+the kind of content that makes you close the tab and come back three times.
+vedic texts cross-examined by satellite data.
+philosophy that holds up under a microscope.
+science that sounds like it was written 4000 years ago.
+because it was.
+
+---
+
+**the work**
+
+long-form essays — the ones that take 40 minutes and feel like 10
+
+a complete mapping of vedic sutras against modern geospatial science and molecular biology —
+built over months, cited from primary sources, written for people who find both fields too shallow on their own
+
+short-form scripts — ideas compressed without losing the edge
+
+---
+
+**who this is for**
+
+people who got bored of being explained things they already half-knew.
+
+---
+
+**currently**
+
+somewhere between a thesis submission and an existential question about coordinate systems.
+
+the website is live. the ideas are ongoing.
+
+---
+
+*© 2025 koordinatesworld — original work, all rights reserved*
