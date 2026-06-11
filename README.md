@@ -1,6 +1,6 @@
-# koordinatesworld
-
-> some things can't be explained. only encountered.
+<div align="center">
+<img src="https://raw.githubusercontent.com/koordinatesworld/koordinatesworld/main/banner.svg" width="100%"/>
+</div>
 
 ---
 
