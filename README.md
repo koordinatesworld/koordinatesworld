@@ -4,7 +4,7 @@
 
 ---
 
-independent content studio. no institution. no agenda. no face.
+independent content studio. no institution. no agenda. 
 
 writing at the intersection of fields that have no business being related —
 and finding out they were always the same field.
